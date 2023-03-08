@@ -1,6 +1,9 @@
 .dockerignore
+.gitignore
 docker-compose.yml
 Dockerfile
+RAEDME.md
+
 
 .idea/
 .cache/
