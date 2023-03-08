@@ -1,4 +1,4 @@
-# Workspace for microservice
+# Workspace
 
 ## Dependencies
 - [asdf](https://asdf-vm.com/) v0.11.2
