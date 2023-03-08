@@ -1,0 +1,7 @@
+.dockerignore
+docker-compose.yml
+Dockerfile
+
+.idea/
+.cache/
+tmp/
