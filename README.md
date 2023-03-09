@@ -1,4 +1,4 @@
-# Workspace for microservice
+# Workspace
 
 ## Dependencies
 
